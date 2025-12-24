@@ -4,14 +4,14 @@
 # tiktok-accounts-maker
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
 
-## last version 41.5.4
+## last version 43.1.15
 **Contact for api :** [https://t.me/alethino](https://t.me/alethino)
 ## telegram: @alethino
   
 ```json
 [
     {
-        "register_time": "2025-09-01 22:56:40",
+        "register_time": "2025-12-10 22:56:40",
         "username": "actjqilkfng",
         "password": "Ouncnnsdf!",
         "email": "bdmasudrtdu@tozya111.com",
@@ -38,11 +38,11 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "seed": "",
             "seedId": "",
             "sdiToken": "",
-            "userAgent": "com.zhiliaoapp.musically/2023501030 (Linux; U; Android 13; en_US; SM-G988B; Build/TQ2A.230505.002.A1; Cronet/TTNetVersion:711894ae 2025-02-10 QuicVersion:5f987023 2024-05-10)",
+            "userAgent": "com.zhiliaoapp.musically/2023501030 (Linux; U; Android 13; en_US; SM-G988B; Build/TQ2A.230505.002.A1; Cronet/TTNetVersion:711894ae 2025-12-10 QuicVersion:5f987023 2024-05-10)",
             "webUa": "Mozilla/5.0 (Linux; U; Android 13; en_US; SM-G988B Build/TQ2A.230505.002.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",
             "osVersion": "13",
             "deviceType": "SM-G988B",
-            "appVersion": "39.4.3",
+            "appVersion": "43.1.15",
             "mssdkVersion": "v05.00.00-alpha.114-ov-android",
             "mssdkVersionCode": "83886112",
             "cmplEnc": "",
@@ -112,7 +112,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "aid": "1233",
             "app_name": "musical_ly",
             "version_code": "350103",
-            "version_name": "39.4.3",
+            "version_name": "43.1.15",
             "device_platform": "android",
             "os": "android",
             "ab_version": "35.1.3",
@@ -140,7 +140,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "uoo": "0",
             "op_region": "US",
             "timezone_offset": "-21600",
-            "build_number": "39.4.3",
+            "build_number": "43.1.15",
             "host_abi": "arm64-v8a",
             "locale": "en",
             "region": "US",
